@@ -2,10 +2,10 @@
 This is a machine learning project that provides a model for predicting the scores of students based on the number of hours they study and their previous scores. The project is implemented in Python and uses the scikit-learn library for building and training the machine learning model.
 
 ## Table of Contents
--- Installation
--- Usage
--- Contributing
--- License
+- Installation
+- Usage
+- Contributing
+- License
 
 ## Installation
 To use this project, you should have Python 3 and the following libraries installed:
@@ -17,13 +17,9 @@ To use this project, you should have Python 3 and the following libraries instal
 -- Jupyter Notebook
 You can install these libraries by running the following command:
 
-sh
-Copy code
 pip install numpy pandas scikit-learn matplotlib jupyter
 You can also clone this repository to your local machine using the following command:
 
-sh
-Copy code
 git clone https://github.com/AhmedNobi/Student-Score-Prediction.git
 Usage
 To use this machine learning model, you can open the student_score_prediction.ipynb file in Jupyter Notebook. This notebook contains the code for building and training the machine learning model, as well as a detailed explanation of each step of the process.
