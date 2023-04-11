@@ -10,11 +10,11 @@ This is a machine learning project that provides a model for predicting the scor
 ## Installation
 To use this project, you should have Python 3 and the following libraries installed:
 
--- NumPy
--- Pandas
--- scikit-learn
--- Matplotlib
--- Jupyter Notebook
+- NumPy
+- Pandas
+- scikit-learn
+- Matplotlib
+- Jupyter Notebook
 You can install these libraries by running the following command:
 
 pip install numpy pandas scikit-learn matplotlib jupyter
